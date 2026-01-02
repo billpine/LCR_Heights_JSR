@@ -1,6 +1,6 @@
 ############################################################
 # Example offshore restoration fit (Site = O)
-# Fits: height_live ~ treatment + harvest
+# Fits the model from the paper height_live ~ treatment + harvest
 ############################################################
 
 library(brms)
